@@ -2,5 +2,5 @@
 Layout: Slide
 tittle: "Welcome to our second slide!"
 ---
-Your text:
+How is your day?
 Use left arrow to go back
